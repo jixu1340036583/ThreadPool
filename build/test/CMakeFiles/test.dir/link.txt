@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/test.dir/test.cpp.o -o ../../bin/test  -Wl,-rpath,/home/jixu/Mycode/ThreadPool/lib ../../lib/libThreadPool.so -lpthread 

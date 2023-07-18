@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ThreadPool/build/test",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ThreadPool/include -g -o CMakeFiles/test.dir/test.cpp.o -c /home/jixu/Mycode/ThreadPool/test/test.cpp",
+  "file": "/home/jixu/Mycode/ThreadPool/test/test.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ThreadPool/build/src",
+  "command": "/usr/bin/g++ -DThreadPool_EXPORTS -I/home/jixu/Mycode/ThreadPool/include -g -fPIC -o CMakeFiles/ThreadPool.dir/Logger.cc.o -c /home/jixu/Mycode/ThreadPool/src/Logger.cc",
+  "file": "/home/jixu/Mycode/ThreadPool/src/Logger.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ThreadPool/build/src",
+  "command": "/usr/bin/g++ -DThreadPool_EXPORTS -I/home/jixu/Mycode/ThreadPool/include -g -fPIC -o CMakeFiles/ThreadPool.dir/ThreadPool.cpp.o -c /home/jixu/Mycode/ThreadPool/src/ThreadPool.cpp",
+  "file": "/home/jixu/Mycode/ThreadPool/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ThreadPool/build/src",
+  "command": "/usr/bin/g++ -DThreadPool_EXPORTS -I/home/jixu/Mycode/ThreadPool/include -g -fPIC -o CMakeFiles/ThreadPool.dir/Timestamp.cc.o -c /home/jixu/Mycode/ThreadPool/src/Timestamp.cc",
+  "file": "/home/jixu/Mycode/ThreadPool/src/Timestamp.cc"
+}
+]
